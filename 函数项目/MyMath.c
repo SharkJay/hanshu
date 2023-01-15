@@ -1,4 +1,4 @@
-
+//将函数单独做成一个文件
 int sum_math(int a, int b) {
 	return a + b;
 }
